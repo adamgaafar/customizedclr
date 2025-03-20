@@ -1,4 +1,4 @@
-# ClearML Webapp
+# ClearML Athosys
 
 ## Building the UI from source
 ### Prerequisite
